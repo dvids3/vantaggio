@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.pw/
+.npm-cache/
+.dev.log
+.DS_Store
+.browsers/
+
+# navegador de capturas (scripts/arte-local.mjs)
+.pw-browsers/
